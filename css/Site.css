@@ -1,6 +1,7 @@
 ﻿body {
     padding-top: 50px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+    /*font-family: 'Open Sans', sans-serif;*/
 }
 
 ::selection {
